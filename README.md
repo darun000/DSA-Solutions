@@ -3,7 +3,7 @@
    Solutions to Data Structures & Algorithms problems, organized by topic.
 
    **Author:** Darun
-   **Progress:** 0 / 30
+   **Progress:** 30/ 30
 
    ## Problems Solved
 
